@@ -1,0 +1,9 @@
+fazendo documentação do projeto, instalar o storybook
+
+npx -p @storybook/cli sb init 
+
+adicionar bibliotecas no yarn
+
+yarn add @storybook/addon-info @storybook/addon-centered babel-loader @babel/core -D
+
+mover a pasta stories pra fora do source
